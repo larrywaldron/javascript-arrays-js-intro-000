@@ -1,1 +1,1 @@
-var chocolateBarsc = ['snickers', 'hundred grand', 'kitkat', 'skittles']
+array chocolateBarsc = ['snickers', 'hundred grand', 'kitkat', 'skittles']
