@@ -18,9 +18,11 @@ function addElementToEndOfArray (array, element) {
 
   return array
 }
+
  function accessElementInArray ( array, index) {
     return array(index)
  }
+
 function destructivelyRemoveElementFromBeginningOfArray (array){
   array.shift()
 
@@ -36,11 +38,9 @@ function destructivelyRemoveElementFromEndOfArray ( array){
 function removeElementFromBeginningOfArray ( array) {
 return array.slice(1)
 
-
-
 }
+
 function removeElementFromEndOfArray (array) {
   return array.slice(0, array.length -1)
-
 
 }
